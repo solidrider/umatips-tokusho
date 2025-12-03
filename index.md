@@ -100,7 +100,5 @@ App Store の利用規約および Apple の方針に従います。
 
 ## 利用規約・プライバシーポリシー
 
-- 利用規約：
-  https://solidrider.github.io/umatips-tos/
-- プライバシーポリシー：  
-  https://solidrider.github.io/umatips-privacy/
+- 利用規約：https://solidrider.github.io/umatips-tos/
+- プライバシーポリシー：https://solidrider.github.io/umatips-privacy/
